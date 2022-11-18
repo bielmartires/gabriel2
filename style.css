@@ -4,6 +4,9 @@ nav li {
 	text-transform: uppercase;
 }
 
+#banner {
+	width: 100%;
+}
 
 
 body {
